@@ -1,2 +1,1 @@
-Immersive Sim Enthusiast and GameDev, i also like Cinema and Music.
-Working on a lite immersive-sim
+Immersive Sim Enthusiast and GameDev, currently working on Filth a "lite" immersive sim
